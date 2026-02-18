@@ -7,7 +7,6 @@
 
 ## 🖥️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-Pattern-blue)
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
 ![APIs](https://img.shields.io/badge/API_Integration-009688)
