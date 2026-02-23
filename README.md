@@ -9,6 +9,10 @@
 
 ## 🖥️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-Java%20Server%20Pages-orange)
+![JSF](https://img.shields.io/badge/JSF-JavaServer%20Faces-blue)
+![JDBC](https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-green)
 ![MVC](https://img.shields.io/badge/MVC-Pattern-blue)
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
 ![APIs](https://img.shields.io/badge/API_Integration-009688)
